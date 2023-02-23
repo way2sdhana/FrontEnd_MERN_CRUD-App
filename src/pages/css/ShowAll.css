@@ -1,0 +1,16 @@
+.abcd label {
+  width: 80px !important;
+  margin-bottom: 12px;
+}
+
+.abcd hr{
+  margin: 0 auto;
+  width: 300px;
+  border: 2px dotted black;
+}
+
+.bor-mar{
+  border: 2px solid;
+  border-radius: 5px;
+  margin: 15px;
+}
